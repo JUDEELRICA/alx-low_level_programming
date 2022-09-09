@@ -1,1 +1,1 @@
-source code to print whether the number stored in the variable n is positive or negative
+source code in order to print the last digit of the number stored in the variable n

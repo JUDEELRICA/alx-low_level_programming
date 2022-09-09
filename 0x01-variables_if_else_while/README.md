@@ -1,1 +1,1 @@
-Wrote a program that prints the alphabet in lowercase, and then in uppercase
+Wrote a program that prints the alphabet in lowercase

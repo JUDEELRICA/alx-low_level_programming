@@ -1,1 +1,1 @@
-Wrote a C program that prints lines of text
+Wrote a C program that prints a line of texts

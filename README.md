@@ -1,1 +1,1 @@
-Task 4. Hello, puts
+Task 5. Hello, printf

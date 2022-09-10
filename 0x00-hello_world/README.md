@@ -1,1 +1,1 @@
-a C program that prints exactly with proper grammar, but the outcome is a piece of art
+Wrote a C program that prints the size of various types on the computer

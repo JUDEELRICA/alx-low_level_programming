@@ -1,1 +1,1 @@
-Wrote a program that prints all possible different combinations of two digits
+Wrote a program that prints all possible different combinations of three digits

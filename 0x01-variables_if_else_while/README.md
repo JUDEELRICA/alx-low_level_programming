@@ -1,1 +1,1 @@
-Wrote a program that prints all possible combinations of single-digit numbers
+source code in order to print whether the number stored in the variable n is positive or negative

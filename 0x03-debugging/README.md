@@ -1,1 +1,1 @@
-commented out a code part causing an infinite loop
+code prints out the largest of three integers

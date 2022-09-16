@@ -1,1 +1,1 @@
-code prints out the largest of three integers
+code that tests function that prints if integer is positive or negative

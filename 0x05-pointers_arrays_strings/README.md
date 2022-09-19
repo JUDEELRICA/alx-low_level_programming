@@ -1,1 +1,1 @@
-Wrote a function that prints a string, followed by a new line
+Wrote a function that prints a string, in reverse

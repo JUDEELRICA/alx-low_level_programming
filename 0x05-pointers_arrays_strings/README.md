@@ -1,1 +1,1 @@
-Wrote a function that prints every other character of a string
+Wrote a function that prints n elements of an array of integers

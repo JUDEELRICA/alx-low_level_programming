@@ -1,1 +1,1 @@
-Wrote a function that copies a string
+Wrote a function that compares two strings

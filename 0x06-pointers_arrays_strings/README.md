@@ -1,1 +1,1 @@
-Wrote a function that changes all lowercase letters of a string to uppercase
+Wrote a function that capitalizes all words of a string

@@ -1,1 +1,1 @@
-Print largest of 3 integers
+Wrote a function that concatenates two strings

@@ -1,1 +1,1 @@
-Wrote a function that encodes a string using rot13
+Wrote a function that prints an integer

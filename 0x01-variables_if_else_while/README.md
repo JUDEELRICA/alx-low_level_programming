@@ -1,1 +1,1 @@
-a program that assigns a random number to the variable n
+Wrote a program that prints all single digit numbers of base 10 starting from 0

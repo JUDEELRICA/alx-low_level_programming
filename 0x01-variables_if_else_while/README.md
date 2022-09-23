@@ -1,1 +1,1 @@
-a program that prints all possible combinations of two two-digit numbers
+a program that assigns a random number to the variable n

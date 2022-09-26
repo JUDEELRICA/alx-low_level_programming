@@ -1,1 +1,1 @@
-Wrote a function that fills memory with a constant byte
+Wrote a function that copies memory area

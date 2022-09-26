@@ -1,1 +1,1 @@
-Wrote a function that prints the chessboard.
+Wrote a function that sets the value of a pointer to a char

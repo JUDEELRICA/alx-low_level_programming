@@ -1,1 +1,1 @@
-Wrote a function that gets the length of a prefix substring.
+Wrote a function that searches a string for any of a set of bytes.
